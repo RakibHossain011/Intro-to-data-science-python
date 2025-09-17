@@ -1,10 +1,10 @@
-📊 Introduction to Data Science in Python – University of Michigan
+**📊 Introduction to Data Science in Python – University of Michigan**
 
 This repository contains my lab work and graded assignments from the Introduction to Data Science in Python
  course, offered by the University of Michigan on Coursera.
 It is part of the Applied Data Science with Python Specialization and focuses on building strong foundations in data science using Python.
 
-📚 Course Overview
+**📚 Course Overview**
 
 Instructor: Christopher Brooks
 
@@ -20,7 +20,7 @@ Enrolled Learners: 834,000+
 
 Structure: 4 modules with practical assignments and quizzes
 
-Modules Covered:
+**Modules Covered:**
 
 Introduction to Python Programming Environment (syntax, functions, lambdas, error handling)
 
@@ -30,19 +30,7 @@ Data Wrangling and Cleaning using Pandas
 
 Statistical Analysis (distributions, sampling, t-tests)
 
-📂 Repository Structure
-
-This repository is organized as follows:
-
-📦 introduction-to-data-science-in-python
- ┣ 📁 labs               # Lab notebooks from the course
- ┣ 📁 assignments        # Graded assignments submitted on Coursera
- ┣ 📄 README.md          # Repository documentation (this file)
-
-
-⚠️ Note: This repo only includes labs and assignments. There are no separate projects in this course.
-
-🚀 Skills Learned
+**🚀 Skills Learned**
 
 Throughout this course, I gained foundational and practical skills in Python for Data Science:
 
@@ -80,13 +68,13 @@ Pivot tables and summary charts
 
 Communicating insights through notebooks
 
-📜 Certificate
+**📜 Certificate**
 
 I successfully completed this course and earned a shareable Coursera certificate:
 
 ➡️ (https://coursera.org/share/95f859385dc41f141c290f35ac2396f5)
 
-🎯 Purpose of This Repository
+**🎯 Purpose of This Repository**
 
 To document my learning journey in Data Science with Python
 
