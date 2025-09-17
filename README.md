@@ -1,85 +1,28 @@
-**📊 Introduction to Data Science in Python – University of Michigan**
+# Intro-to-data-science-python
+Assignments and labs from the Coursera course: Introduction to Data Science in Python (University of Michigan).
 
-This repository contains my lab work and graded assignments from the Introduction to Data Science in Python
- course, offered by the University of Michigan on Coursera.
-It is part of the Applied Data Science with Python Specialization and focuses on building strong foundations in data science using Python.
+## 📚 Course Overview
+This repository documents my work from the Coursera course **Introduction to Data Science in Python**. The course is part of the Applied Data Science with Python Specialization and focuses on building a strong foundation in data manipulation, data cleaning, and statistical analysis using Python's core libraries.
 
-**📚 Course Overview**
+## 📂 Repository Structure
+* `Assignments/`: My completed weekly assignments, demonstrating practical application of course concepts.
+* `Labs/`: Hands-on lab exercises that reinforce key skills.
 
-Instructor: Christopher Brooks
+## 🚀 Skills Demonstrated
+* **Core Libraries**: Proficient use of **NumPy** for numerical operations and **Pandas** for powerful data manipulation and analysis.
+* **Data Wrangling**: Gained expertise in cleaning and preparing raw data for analysis.
+* **Statistical Analysis**: Learned to apply statistical tests (e.g., t-tests) and concepts to draw insights from data.
+* **Python Fundamentals**: Solidified Python programming skills, including functions, lambdas, and error handling.
 
-Provider: University of Michigan (via Coursera)
+## 📜 Certificate of Completion
+I successfully completed this course and earned a verified certificate.
 
-Level: Intermediate (some Python experience recommended)
+[View my certificate here](https://coursera.org/share/95f859385dc41f141c290f35ac2396f5)
 
-Duration: ~3 weeks at 10 hours/week (flexible schedule)
+## 🔗 Useful Links
+* [My LinkedIn Profile](https://www.linkedin.com/in/mohammad-rakib-hossain-428b65204/)
+* [Coursera Course Link](https://www.coursera.org/learn/python-data-analysis)
 
-Rating: ⭐ 4.5 (27,000+ reviews)
+---
 
-Enrolled Learners: 834,000+
-
-Structure: 4 modules with practical assignments and quizzes
-
-**Modules Covered:**
-
-Introduction to Python Programming Environment (syntax, functions, lambdas, error handling)
-
-Working with Data in Python (NumPy arrays and operations)
-
-Data Wrangling and Cleaning using Pandas
-
-Statistical Analysis (distributions, sampling, t-tests)
-
-**🚀 Skills Learned**
-
-Throughout this course, I gained foundational and practical skills in Python for Data Science:
-
-Programming Foundations
-
-Python functions, lambdas, list comprehensions, loops, error handling
-
-Working with Jupyter Notebook for reproducible workflows
-
-Data Analysis & Manipulation
-
-Pandas: DataFrames & Series (indexing, slicing, grouping, merging)
-
-NumPy: arrays, mathematical/statistical operations, vectorization
-
-Import/export of datasets (CSV and other formats)
-
-Data Cleaning
-
-Handling missing values, duplicates, outliers
-
-Reshaping and filtering data for analysis
-
-Statistical Analysis
-
-Probability distributions and sampling
-
-Descriptive statistics
-
-Hypothesis testing and t-tests
-
-Visualization & Reporting
-
-Pivot tables and summary charts
-
-Communicating insights through notebooks
-
-**📜 Certificate**
-
-I successfully completed this course and earned a shareable Coursera certificate:
-
-➡️ (https://coursera.org/share/95f859385dc41f141c290f35ac2396f5)
-
-**🎯 Purpose of This Repository**
-
-To document my learning journey in Data Science with Python
-
-To showcase my ability to work with real-world data using Pandas and NumPy
-
-To serve as a quick reference for future projects and research
-
-✅ This repo reflects my completed labs and assignments from the University of Michigan’s course and is part of my journey toward becoming a Data Scientist.
+⭐ Follow my journey as I build more projects and complete other Data Science courses on GitHub!
